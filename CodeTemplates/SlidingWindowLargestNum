@@ -1,0 +1,10 @@
+# The Problem is: How to find the largest number in an array
+
+# Step 1: Understand the problem
+"""
+Input = [3,7,2,9,1]
+Output = 9
+Edge cases:
+  Empty Array? Negative number?
+
+"""
